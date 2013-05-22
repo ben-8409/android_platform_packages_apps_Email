@@ -18,7 +18,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.email"
     android:versionCode="410000"
-    android:versionName="4.1"
+    android:versionName="4.1-TEST"
     >
 
     <!-- This needs to be present when we are doing unbundled releases. -->
